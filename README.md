@@ -1,7 +1,7 @@
 
 ![mainPage](https://github.com/user-attachments/assets/4f5e6b81-44d7-49a4-8f3c-50e6d2893407)
 
-# Inflearn 리디자인 퍼블리싱 프로젝트
+# 🍃Inflearn 리디자인 퍼블리싱 프로젝트
 기존 인프런(Inflearn) 웹사이트를 기반으로, 개인의 시각에서 디자인을 재해석하고 퍼블리싱 구조를 재구성한 클론 프로젝트입니다.
 </div>
 
