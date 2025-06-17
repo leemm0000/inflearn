@@ -7,7 +7,7 @@ fetch('경로')
 })
 */
 
-fetch('./include/footer.html')
+fetch('/include/footer.html')
 .then(response => response.text())
 .then(data => {
   document.querySelector('.footer-include').innerHTML = data;
