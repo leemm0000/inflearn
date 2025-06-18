@@ -142,18 +142,21 @@ Swiper.js, 모달, 드롭다운, 아코디언 등 다양한 인터랙션 구현
 ---
 
 # 서브 페이지
-![인프런 서브페이지 1](https://github.com/user-attachments/assets/cee98ab6-9bb5-4b8f-94fb-11e0683915b0)
+
+![Untitled-1](https://github.com/user-attachments/assets/0f2c97e8-f870-47f7-b1bb-6ee1af6609cd)
 
 ## 강의 상세 페이지  
 강의 커리큘럼, 상세 설명, 후기, 장바구니, 가격 비교 등  
 사용자에게 필요한 모든 정보를 제공하는 상세 콘텐츠 페이지입니다.
 
 ---
-![인프런 서브페이지 2](https://github.com/user-attachments/assets/7923257b-c913-4db0-bc29-b6b0478e5f79)
+
 
 ## 카테고리 메인 페이지  
+![image](https://github.com/user-attachments/assets/e3742af0-0bca-4e37-bfb9-bddd4226fa5e)
 전체 강의 리스트를 확인할 수 있는 페이지입니다.  
 카테고리별로 필터링하거나 원하는 강의를 탐색할 수 있습니다.
+ 
 
   
 
