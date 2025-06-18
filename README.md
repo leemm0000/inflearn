@@ -1,4 +1,4 @@
-![인프런모바일01](https://github.com/user-attachments/assets/9a519ad8-c634-4dcf-86f0-f3dfd82e22b0)
+
 ![인프런](https://github.com/user-attachments/assets/011c9ea4-f53a-4950-a0f6-77e1822d1d07)
 
 # 🍃Inflearn 리디자인 퍼블리싱 프로젝트
