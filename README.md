@@ -89,6 +89,8 @@ Swiper.js, 모달, 드롭다운, 아코디언 등 다양한 인터랙션 구현
 ---
 
 # 메인 페이지
+![인프런 메인2](https://github.com/user-attachments/assets/b6181fc0-2b6a-466b-8177-5b4280d47b4b)
+![인프런 메인1](https://github.com/user-attachments/assets/82e0bb6a-4aaa-4c8d-a934-ebae169eb02b)
 
 ## Section 1 - 메인 비주얼  
 페이지에서 가장 먼저 보이는 슬라이드 영역입니다.  
